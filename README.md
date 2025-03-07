@@ -1,6 +1,3 @@
-Sure! Here's your **TechProjects** repository description in a polished and engaging style:  
-
----
 
 # 🚀 TechProjects - Learning Backend by Doing  
 
@@ -64,6 +61,3 @@ This repository is open-source under the **MIT License**. Feel free to use the c
 
 🔥 Let’s **build, learn, and grow together** – Keep coding and exploring! 🚀  
 
----
-
-This version maintains your original intent while improving clarity, structure, and engagement. Let me know if you'd like any tweaks! 🚀
